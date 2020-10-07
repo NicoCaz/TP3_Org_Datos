@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602105238 source:c:\users\nico\desktop\tp3_orgadatos\main.c
+	<stdio.h>
+	<stdlib.h>
+

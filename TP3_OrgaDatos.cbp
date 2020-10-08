@@ -31,7 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="README.md" />
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainIT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainMonticulos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainPersistencia.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
